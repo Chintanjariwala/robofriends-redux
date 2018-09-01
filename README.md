@@ -1,6 +1,3 @@
-# robofriends
-Tutorial for udemy course - React + Redux
-
 To run the project:
 
 1. Clone this repo
